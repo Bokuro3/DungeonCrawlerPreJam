@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6f6c5795ebf778646b28d0fc0f1c4fd2
+guid: f06c8c32c4673e2409ac40eb0a4a6371
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,18 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: HandMat
+    second: {fileID: 2100000, guid: e1e3d7a7399d89643a55fb07c5d87b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Miner
-    second: {fileID: 2100000, guid: ba5da484d6bcf514dae002a8345e70a3, type: 2}
+    second: {fileID: 2100000, guid: 98d3a33cc9b8d2f49a07e219217393b5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MinerEyes
-    second: {fileID: 2100000, guid: 959fa45c77e63084f8c5a5fa0b6c8118, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Pickax
-    second: {fileID: 2100000, guid: af6db3c2840bd9f4cbf70e81080d5e45, type: 2}
+    second: {fileID: 2100000, guid: c4e7b3220585dff429e9567f1e20f4ce, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

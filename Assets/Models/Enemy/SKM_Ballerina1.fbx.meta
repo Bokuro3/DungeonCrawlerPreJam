@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6f6c5795ebf778646b28d0fc0f1c4fd2
+guid: 20209fef7348c3c4d962e18054efece9
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,18 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Miner
-    second: {fileID: 2100000, guid: ba5da484d6bcf514dae002a8345e70a3, type: 2}
+      name: BallerinaBody
+    second: {fileID: 2100000, guid: ab61543fd38476a438b12326520b865a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MinerEyes
-    second: {fileID: 2100000, guid: 959fa45c77e63084f8c5a5fa0b6c8118, type: 2}
+      name: BallerinaHeadEyes
+    second: {fileID: 2100000, guid: 50e1941e391ce4b42aeda0c72fa8a19b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Pickax
-    second: {fileID: 2100000, guid: af6db3c2840bd9f4cbf70e81080d5e45, type: 2}
+      name: Floating Eyes
+    second: {fileID: 2100000, guid: f53dcd75b1f2b084f87f4ac5c65502c1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

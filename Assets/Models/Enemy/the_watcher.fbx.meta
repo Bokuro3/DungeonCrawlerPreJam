@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6f6c5795ebf778646b28d0fc0f1c4fd2
+guid: b7deb06d348d77e43a08c7bb99e44ed7
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,18 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Miner
-    second: {fileID: 2100000, guid: ba5da484d6bcf514dae002a8345e70a3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MinerEyes
-    second: {fileID: 2100000, guid: 959fa45c77e63084f8c5a5fa0b6c8118, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Pickax
-    second: {fileID: 2100000, guid: af6db3c2840bd9f4cbf70e81080d5e45, type: 2}
+      name: Material.001
+    second: {fileID: 2100000, guid: 988de50dbb308024cb0ab4a4f5f2b333, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
