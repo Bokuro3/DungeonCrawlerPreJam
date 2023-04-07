@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Textures/PlllarPNG.png.meta
-guid: 135d3ee8082a7b541b92555e6c7ef517
-========
-guid: 3c7e33838ff287341b5d07ab4dd35927
->>>>>>>> NicoDev:Assets/Textures/PatternTest.png.meta
+guid: 9268940acffd93845bc76fc33c97b66d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -95,18 +91,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
